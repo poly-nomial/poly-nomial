@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @poly-nomial. You can call me Lina.
 - 👀 I’m interested in interactive fiction and pop culture.
 - 🌱 I’m currently learning front-end programming.
-- 📫 You can reach me at libra28@ya.ru
+- 📫 You can reach me at p-belitova@ya.ru
 
 <!---
 poly-nomial/poly-nomial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
