@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @poly-nomial. You can call me Lina.
 - 👀 I’m interested in interactive fiction and pop culture.
-- 🌱 I’m currently learning front-end programming.
+- 🌱 I’m an up-and-coming frontend programmer.
 - 📫 You can reach me at libra28@ya.ru
 
 <!---
